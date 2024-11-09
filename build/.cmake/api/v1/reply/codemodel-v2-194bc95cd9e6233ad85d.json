@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "STM32_BLDC_Hall",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FWlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FWlib-e7838d7295450012b313.json",
+					"name" : "FWlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STM32_BLDC_Hall.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STM32_BLDC_Hall.elf-0db537c1f95ca67fdcb6.json",
+					"name" : "STM32_BLDC_Hall.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/prog/STM32/STM32/stm32/STM32prog/CLion_Vscode_BLDC_PWM_Hallless/build",
+		"source" : "D:/prog/STM32/STM32/stm32/STM32prog/CLion_Vscode_BLDC_PWM_Hallless"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

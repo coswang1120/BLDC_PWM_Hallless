@@ -1,0 +1,9 @@
+.idea
+OBJ
+cmake-build-*
+*~!/User_program/Task_function.c
+必看.txt
+Output
+DebugConfig
+CMakeFiles
+
